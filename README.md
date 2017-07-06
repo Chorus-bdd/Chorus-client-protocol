@@ -10,5 +10,5 @@ Although Web Sockets are the only transport presently, the message definitions s
 
 Current client implementations for Chorus Web Socket client exist in Java (in the core Chorus project) and in Javascript (in the chorus-js repo)
 
-See [[Home]]
+See [Wiki Documentation](https://github.com/Chorus-bdd/Chorus-client-protocol/wiki)
 
