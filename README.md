@@ -1,6 +1,6 @@
 # Chorus-client-protocol
 
-From Chorus version 3.0.x (in Beta development) clients can connect to Chorus and pubish their steps over a Web Socket connection
+From Chorus version 3.0.x (in Beta) clients can connect to Chorus and pubish their steps over a Web Socket connection
 
 This  enables distributed Chorus tests to interact with any components or microservice which can open a web sockets connection and send/receive messages over it. A primary target for this type of testing is Javascript/browser clients. However, our goal is to provide libraries to faciliate this for commonly-deployed languages.
 
